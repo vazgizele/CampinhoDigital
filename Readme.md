@@ -1,4 +1,5 @@
-### Conceito: ##### É o conjunto de programas que gerenciam recursos, processadores, armazenamento, dispositivos de entrada e saída e dados da máquina e seus periféricos. O sistema que faz comunicação entre o hardware e os demais softwares. O Sistema Operacional cria uma plataforma comum a todos os programas utilizados. Exemplos: Dos, Unix, Linux, Mac OS, OS-2, Windows NT.
+### Conceito: 
+ É o conjunto de programas que gerenciam recursos, processadores, armazenamento, dispositivos de entrada e saída e dados da máquina e seus periféricos. O sistema que faz comunicação entre o hardware e os demais softwares. O Sistema Operacional cria uma plataforma comum a todos os programas utilizados. Exemplos: Dos, Unix, Linux, Mac OS, OS-2, Windows NT.
 
 ### Funções Básicas:
 
@@ -11,7 +12,7 @@ gerenciamento dos dispositivos de entrada e saída;
 tratamento e recuperação de erros
 Em suma, o sistema operacional, tem as funções básicas de interpretar os comandos do usuário; controlar os periféricos (teclado, vídeo, discos, impressora, mouse, plotter, etc) e organizar arquivos em disco.
 
-O sistema operacional "se comunica" com:
+### O sistema operacional "se comunica" com:
 
 usuários: pessoas que utilizam o computador como uma ferramenta dentro da sua área de atuação;
 hardware, equipamentos conectados, memória;
