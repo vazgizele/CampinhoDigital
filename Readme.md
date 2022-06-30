@@ -21,3 +21,6 @@ operadores de computador, responsáveis pela monitoração do sistema operaciona
 programadores de aplicação, profissionais que desenvolvem software aplicativo para um determinado tipo de máquina  e determinado sistema operacional;
 programadores de sistema; responsáveis pela manutenção do sistema operacional;
 administrador do sistema, responsável pelo controle da utilização da máquina, seus recursos e softwares, cadastramento de usuários, oferecer ou retirar direitos a determinadas operações, a utilização de recursos (ex. impresssora), etc.
+
+
+Gizele Vaz
